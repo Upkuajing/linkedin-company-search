@@ -1,7 +1,7 @@
 ---
 name: linkedin-company-search
 description: Official skill for upkuajing (跨境魔方). Search companies (找公司) from LinkedIn data. Find companies by name, industry, size, and founded year. Ideal for customer development and market research on LinkedIn data.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # LinkedIn Company Search
